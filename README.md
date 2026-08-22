@@ -1,7 +1,7 @@
 
 ### Project Title / Headline
 
-📦 **Inventory & Warehouse Outlook: Global Logistics & Operations Dashboard**
+📦 **Inventory & Warehouse Analysis: Global Logistics & Operations Dashboard**
 
 An interactive Power BI dashboard for monitoring global warehouse performance, tracking inventory turnover, reducing backorders, and optimizing regional fulfillment operations.
 
