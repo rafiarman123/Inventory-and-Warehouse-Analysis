@@ -112,4 +112,6 @@ Unbalanced stock, unmonitored backorders, and warehouse space inefficiencies inc
 
 ---
 
-### 6. Screenshots / Demos
+### Screenshots / Demos
+Show what the dashboard looks like.
+https://github.com/rafiarman123/Inventory-and-Warehouse-Analysis/blob/main/Inventory%20and%20Warehouse%20Outlook.png
