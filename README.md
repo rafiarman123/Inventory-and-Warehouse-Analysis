@@ -7,6 +7,12 @@ An interactive Power BI dashboard for monitoring global warehouse performance, t
 
 ---
 
+### Screenshots / Demos
+It is what the dashboard looks like.
+![Dashboard_Preview](https://github.com/rafiarman123/Inventory-and-Warehouse-Analysis/blob/main/Inventory%20and%20Warehouse%20Outlook.png)
+
+---
+
 ### Short Description / Purpose
 
 The **Inventory & Warehouse Outlook Dashboard** provides supply chain and operations managers with end-to-end visibility into global inventory metrics. It streamlines stock allocation, pinpoints supply chain bottlenecks, and evaluates metrics like lead time, days sales of inventory (DSI), and warehouse capacity utilization to drive data-informed operational decisions.
@@ -107,11 +113,3 @@ Unbalanced stock, unmonitored backorders, and warehouse space inefficiencies inc
 
 
 * **Capacity Planning:** Monitors underutilized warehouse space to maximize operational throughput.
-
-
-
----
-
-### Screenshots / Demos
-It is what the dashboard looks like.
-![Dashboard_Preview](https://github.com/rafiarman123/Inventory-and-Warehouse-Analysis/blob/main/Inventory%20and%20Warehouse%20Outlook.png)
